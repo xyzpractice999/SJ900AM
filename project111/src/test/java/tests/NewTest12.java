@@ -12,6 +12,8 @@ public class NewTest12 {
   public void test2() throws Exception {
 	  System.out.println("test2");
 	  int a=45/0;
+	  System.out.println("test2");
+	  int b=45/0;
   }
   
   public void test3() {
