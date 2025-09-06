@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false" threadCount="2">
+	<test name="Test">
+		<groups>
+			<run>
+				<include name="smoke" />
+			</run>
+		</groups>
+		<classes>
+			<class name="tests.NewTest3" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
