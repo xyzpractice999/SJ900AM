@@ -15,9 +15,6 @@ public class NewTest14 {
   }
   
   public void test3() {
-	  System.out.println("test3122");
-	  System.out.println("test33");
-	  System.out.println("test33");
-	  System.out.println("test3344");
+	  System.out.println("test3");
   }
 }
